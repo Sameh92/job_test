@@ -1,0 +1,11 @@
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\bin\Debug\netcoreapp3.1\Question6.exe
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\bin\Debug\netcoreapp3.1\Question6.deps.json
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\bin\Debug\netcoreapp3.1\Question6.runtimeconfig.json
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\bin\Debug\netcoreapp3.1\Question6.runtimeconfig.dev.json
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\bin\Debug\netcoreapp3.1\Question6.dll
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\bin\Debug\netcoreapp3.1\Question6.pdb
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\obj\Debug\netcoreapp3.1\Question6.csprojAssemblyReference.cache
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\obj\Debug\netcoreapp3.1\Question6.AssemblyInfoInputs.cache
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\obj\Debug\netcoreapp3.1\Question6.AssemblyInfo.cs
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\obj\Debug\netcoreapp3.1\Question6.dll
+C:\Users\SAMEH\Desktop\Job Test\Question6\Question6\obj\Debug\netcoreapp3.1\Question6.pdb
